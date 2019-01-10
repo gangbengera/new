@@ -10,6 +10,11 @@ int mian(void)
 	
 	printf("hello myselfes"\n);
 	
+	printf("君可见刺绣每一针，有人为你疼，君可见牡丹开一生，有人为你等"\n)
+	
+	printf("芙蓉镇三月雨纷纷，四月绣花针"\n);
+	
+	
 	return 0;
 	
 }
